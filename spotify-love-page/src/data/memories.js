@@ -1,0 +1,38 @@
+export const memories = [
+  {
+    id: 1,
+    title: "First Time Ketemu",
+    subtitle: "Awal dari semuanya",
+    duration: "03:21",
+    mood: "Excited and nervous",
+    text: "Ga sia sia aku ngelock kamu di ml waktu itu sekarang kamu udah jadi punya akuww",
+    message: "Gimana rasanya setelah pacaran sama orang yang ngelock kamu sayang?",
+  },
+  {
+    id: 2,
+    title: "Pertama kali kita chatan",
+    subtitle: "masa pdkt",
+    duration: "04:12",
+    mood: "awkward but sweet",
+    text: "aku gapernah deketin cewe sebelumnya makanya aku langsung bingung setelah ngechat kamu pertama kali",
+    message: "tapi kenapa kamu jutek banget?",
+  },
+  {
+    id: 3,
+    title: "Pertama kali kita callan",
+    subtitle: "sound of your voice",
+    duration: "02:58",
+    mood: "awkward moment",
+    text: "Sebenarnya aku malu buat vn makanya aku ngomongin gelas pecah",
+    message: "tapi lucu juga setelah kita callan malah diam diaman",
+  },
+  {
+    id: 4,
+    title: "After 1 Year Anniversary",
+    subtitle: "Sampai hari ini",
+    duration: "05:00",
+    mood: "good vibes",
+    text: "Jujur aku masih ga percaya kita udah setahun aja, rasanya baru kemarin aku mulai deketin kamu.",
+    message: "sama aku terus ya sayangkuu, i love you so muchhh",
+  },
+];
